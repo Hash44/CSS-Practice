@@ -1,1 +1,1 @@
-Scrimba responsive cource practice
+Scrimba responsive design cource practice
